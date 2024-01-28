@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gLhOlSGAI63hRq8ZY+ZXo87fNDuIzjltskVatLgcT2SALTQoyHIgqICndmhgiowVD/gqGuTTGhYsd5FljvgtNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\batyr\\source\\repos\\C#_8_skoropecat\\C#_8_skoropecat\\C#_8_skoropecat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\batyr\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

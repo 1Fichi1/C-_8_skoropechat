@@ -1,0 +1,17 @@
+C:\Users\batyr\source\repos\C#_8_skoropecat\C#_8_skoropecat\obj\Debug\net7.0\C#_8_skoropecat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batyr\source\repos\C#_8_skoropecat\C#_8_skoropecat\obj\Debug\net7.0\C#_8_skoropecat.AssemblyInfoInputs.cache
+C:\Users\batyr\source\repos\C#_8_skoropecat\C#_8_skoropecat\obj\Debug\net7.0\C#_8_skoropecat.AssemblyInfo.cs
+C:\Users\batyr\source\repos\C#_8_skoropecat\C#_8_skoropecat\obj\Debug\net7.0\C#_8_skoropecat.csproj.CoreCompileInputs.cache
+C:\Users\batyr\source\repos\C#_8_skoropecat\C#_8_skoropecat\bin\Debug\net7.0\C#_8_skoropecat.exe
+C:\Users\batyr\source\repos\C#_8_skoropecat\C#_8_skoropecat\bin\Debug\net7.0\C#_8_skoropecat.deps.json
+C:\Users\batyr\source\repos\C#_8_skoropecat\C#_8_skoropecat\bin\Debug\net7.0\C#_8_skoropecat.runtimeconfig.json
+C:\Users\batyr\source\repos\C#_8_skoropecat\C#_8_skoropecat\bin\Debug\net7.0\C#_8_skoropecat.dll
+C:\Users\batyr\source\repos\C#_8_skoropecat\C#_8_skoropecat\bin\Debug\net7.0\C#_8_skoropecat.pdb
+C:\Users\batyr\source\repos\C#_8_skoropecat\C#_8_skoropecat\obj\Debug\net7.0\C#_8_skoropecat.dll
+C:\Users\batyr\source\repos\C#_8_skoropecat\C#_8_skoropecat\obj\Debug\net7.0\refint\C#_8_skoropecat.dll
+C:\Users\batyr\source\repos\C#_8_skoropecat\C#_8_skoropecat\obj\Debug\net7.0\C#_8_skoropecat.pdb
+C:\Users\batyr\source\repos\C#_8_skoropecat\C#_8_skoropecat\obj\Debug\net7.0\C#_8_skoropecat.genruntimeconfig.cache
+C:\Users\batyr\source\repos\C#_8_skoropecat\C#_8_skoropecat\obj\Debug\net7.0\ref\C#_8_skoropecat.dll
+C:\Users\batyr\source\repos\C#_8_skoropecat\C#_8_skoropecat\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\batyr\source\repos\C#_8_skoropecat\C#_8_skoropecat\obj\Debug\net7.0\C#_8_skoropecat.csproj.AssemblyReference.cache
+C:\Users\batyr\source\repos\C#_8_skoropecat\C#_8_skoropecat\obj\Debug\net7.0\C#_8_skoropecat.csproj.CopyComplete
